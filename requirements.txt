@@ -13,6 +13,6 @@ sip==5.1.1
 six==1.14.0
 toml==0.10.0
 wincertstore==0.2
-opencv-python==3.3.1
+opencv-python==3.4.7.28
 dlib==19.4
 pyqt==5.6.0

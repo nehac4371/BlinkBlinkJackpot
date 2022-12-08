@@ -1,4 +1,4 @@
-certifi==2019.11.28
+certifi==2022.12.7
 cmake==3.16.3
 keyboard==0.13.4
 mkl-fft==1.0.15
